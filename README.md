@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      システムアナリストおよびソフトウェア開発者
     </b>
       <br>
       Hi there! I'm Maicon Lucas
