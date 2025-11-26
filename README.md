@@ -1,10 +1,11 @@
+
 <div align="center">
   <img height="190" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 
 # 💫 About Me:
-I am looking for work.<br><br> I am currently learning:<br><br>I am looking for collaboration in the following areas:<br><br>I am looking for help with the following topics:<br><br>Ask me about the following topics: Collaboration, technical support.<br><br>How to reach me:  Ask me via direct message.
+I am looking for work.<br><br> I am currently learning: Cyber Seccurity <br><br>I am looking for collaboration in the following areas:<br><br>I am looking for help with the following topics:<br><br>Ask me about the following topics: Collaboration, technical support.<br><br>How to reach me:  Ask me via direct message.
 
 
 ## 🌐 Socials:
