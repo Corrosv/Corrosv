@@ -18,6 +18,12 @@ I am looking for work.<br><br> I am currently learning:<br><br>I am looking for 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Corrosv&icon=2&color=13)](https://visitcount.itsvg.in)
 
